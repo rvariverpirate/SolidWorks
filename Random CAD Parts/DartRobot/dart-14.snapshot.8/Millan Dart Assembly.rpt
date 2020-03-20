@@ -1,0 +1,69 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 
+Receiving System Product I.D.: 
+File Name                    : Millan Dart Assembly
+Sending System               : Autodesk Inventor 2018
+Preprocessor Version         : unknown
+File Creation Date           : 20180112.131850
+Model Creation Date          : 20180112.085247
+Units                        : MM
+Model Space Scale            : 1
+Author                       : Thomas Savage
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                10.8972
+  Maximum distance to origin:                          32.6055
+  Minimum distance to origin:                          0.80946
+  Effective number of significant digits:              13.9784
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+124  Transformation matrix                            1         1
+126  Rational B-spline curve                       2632      2632
+128  Rational B-spline surface                     1038      1038
+186  Manifold Solid B-rep Object                     79        79
+308  Subfigure definition                             2         2
+314  Color definition                                 9         9
+406  Property                                        10        10
+408  Singular subfigure instance                      3         3
+502  Vertex list                                     79        79
+504  Edge entity                                     79        79
+508  Loop entity                                   1054      1054
+510  Face entity                                   1038      1038
+514  Shell entity                                    79        79
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       79
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Monday, February 05, 2018 20:33:01
+Finish time: Monday, February 05, 2018 20:33:43
+Processing time: 0 days, 00 hours, 00 mins, 42 secs
